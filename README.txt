@@ -3,6 +3,7 @@ Shooter3D
 Created animation clips from mocap data. 
 Used clips to create an animation controller for player character.
 
+Code located under: Assets/Swat/Scripts
 
 Learned:
 Create animation clips from mocap data.
